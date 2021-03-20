@@ -1,4 +1,4 @@
-import { Page } from './stories/Page'
+import { Page } from './components/pages/Page'
 
 function App() {
   return (
